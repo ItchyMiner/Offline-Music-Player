@@ -11,8 +11,9 @@ code for features not yet implemented (I haven't gotten around to doing so, and 
 are planned!
 
 How to use:
-Drag all of your music files into the MusicFiles folder. Then start the program. Depending on how many files you
-have, the first startup might take a bit (~10-20 seconds per 7.5 gigabytes of music), as the program is hashing all the files (if it doesn't work the first time, try it again, it should work then).
+(If not using the exe version) Create a Folder called MusicFiles in the folder with the rest of the files. Drag all of your music files into the MusicFiles folder. Then start the program. 
+Depending on how many files you have, the first startup might take a bit (~10-20 seconds per 7.5 gigabytes of music), 
+as the program is hashing all the files (if it doesn't work the first time, try it again, it should work then).
 On future startups, it will be much faster (~2 seconds). Once it is done hashing, the program will start.
 
 In the program, there are buttons for the library, playlists, and the queue. You can add music to playlists or the queue from the library. 
